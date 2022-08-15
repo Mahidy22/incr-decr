@@ -1,0 +1,12 @@
+.container{
+    background: #000;
+    color : white;
+    text-align: center;
+    max-width:500px;
+    margin:auto;
+    padding:20px;
+    border-radius: 8px;
+    margin-top: 30px;
+    border:3px solid crimson;
+    font-family: monospace;
+} 
